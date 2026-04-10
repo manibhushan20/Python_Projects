@@ -20,7 +20,7 @@ As an aspiring Software Engineer, my goal is to master Python for backend develo
 ---
 
 ## 📈 Stats & Habits
-- **Start Date:** [1st April 2026]
+- **Start Date:** 1st April 2026
 - **Commit Frequency:** Daily
 - **Current Streak:** Check my [GitHub Profile](https://github.com/manibhushan20) for the green squares!
 
